@@ -19,5 +19,8 @@
     "reporters": [
       "jest-check-cross-reporter"
     ]
+  },
+  "dependencies": {
+    "npm": "^6.11.3"
   }
 }
